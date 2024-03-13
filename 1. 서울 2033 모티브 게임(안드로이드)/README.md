@@ -13,7 +13,7 @@
 </br></br></br>
 
 ## Dialogue_Adapt 스크립트
-- 동적으로 UI를 생성하고 UI 내부를 현재 진행되고 있는 이벤트의 내용을 채워 넣는 기능의 스크립트입니다.
+- 동적으로 UI를 생성하고 UI 내부를, 현재 진행되고 있는 이벤트의 내용을 채워 넣는 기능의 스크립트입니다.
 </br>
 
 ![image](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/e7d7fd8f-fdd2-45b9-9060-275e6bc47ba9)
