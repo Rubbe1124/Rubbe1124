@@ -16,10 +16,10 @@
 
 
 틱 함수의 기능은 다음과 같습니다.
-1. 월드에 배치되지 않은 임시 건물을 마우스 위치로 이동시킵니다. 이는 SetTransformBasedOnTarget함수와 HoldingObjectOnAir 함수와 관련있습니다.
-2. 임시 건물이 배치 가능한지 확인합니다. 배치 불가능 판정이 나오면 마테리얼을 붉은색으로 표시해 사용자에게 시각적으로 정보를 제공합니다. IsValidToBuild함수, ChangeMaterial함수와 관련 있습니다.
-3. 마우스 클릭 시 손에 들고 있는 건물을 그 위치 그대로 배치합니다. BuildOneObjectOnMousePosition함수와 관련있습니다.
-4. 건물의 층을 결정합니다. SetFloorNumBasedOnTarget함수와 관련있습니다.
+1. 월드에 배치되지 않은 임시 건물을 마우스 위치로 이동시킵니다. (SetTransformBasedOnTarget함수와 HoldingObjectOnAir 함수와 관련있습니다.)
+2. 임시 건물이 배치 가능한지 확인합니다. 배치 불가능 판정이 나오면 마테리얼을 붉은색으로 표시해 사용자에게 시각적으로 정보를 제공합니다. (IsValidToBuild함수, ChangeMaterial함수와 관련 있습니다.)
+3. 마우스 클릭 시 손에 들고 있는 건물을 그 위치 그대로 배치합니다. (BuildOneObjectOnMousePosition함수와 관련있습니다.)
+4. 건물의 층을 결정합니다. (SetFloorNumBasedOnTarget함수와 관련있습니다.)
     
 </br>
 
