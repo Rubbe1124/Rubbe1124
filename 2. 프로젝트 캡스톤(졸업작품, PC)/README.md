@@ -18,11 +18,17 @@
 ### Loading
 - 유저가 게임을 실행하면 Loading 씬이 나오며, 서버에 접속합니다.
 
+![image](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/cb8590bd-f764-4404-a17b-07e4e21399af)
+
+
 </br>
 
 ### Lobby
 - 서버에 접속하게되면 Lobby 씬으로 전환되고, Lobby 씬에서는 현재 생성된 방 리스트와 그 방의 접속 인원이 화면에 표현되고,
 - 방을 만들거나 이미 있는 방에 참여할 수 있는 기능이 포함됩니다.
+
+![image](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/6c25724b-b3a7-48a6-8787-7b085a6363bf)
+
   
 </br>
 
@@ -35,6 +41,12 @@
 - SetCharacterAndAlert와 SelectCharacter는 캐릭터 선택 창에서 버튼 클릭 후, 중복 선택된 캐릭터가 아니라면 선택된 캐릭터를 고를 수 있다는 것을 가시적으로 유저에게 알려주기 위해 버튼의 색깔을 변경하는 스크립트입니다.
     
 - 그 외의 방에서 나갈 때를 처리하는 스크립트, 레디 상태 알림, 게임 시작 등의 스크립트가 포함되어있습니다.
+
+  ![image](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/1a82a8e0-364c-4e13-ae44-7c5bd36c3a34)
+
+</br>
+
+  ![image](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/bf029f94-88f1-4e51-b1c6-8f0ae1a82982)
 
 </br>
 
