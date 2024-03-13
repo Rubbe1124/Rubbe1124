@@ -2,7 +2,9 @@
 
 ![image](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/17462da2-ee2d-4404-b8fe-ed7e7ab31685)
 
+<!--
 ![텍스트 1](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/e6b0c92e-52b0-4b08-8a35-c6e5576cfffd)
+-->
 
 개발 기간 : 2023.05.03~2023.05.17
 
@@ -10,7 +12,7 @@
 
 주요 기능 : 스크립터블 오브젝트에 따라 UI를 동적 생성하는 시스템
 
-
+</br></br></br>
 
 # 프로젝트 캡스톤 (졸업작품)
 
@@ -32,6 +34,7 @@
   ### [한상혁](https://github.com/Joel970203)
     맵 디자인 및 캐릭터 기능 개발. 캐릭터 이동 및 스킬 동기화 진행. 보스 패턴 동기화 진행.
 
+</br></br></br>
 
 # 생존 게임 (가제: aftermess)
 
@@ -41,8 +44,9 @@
 
 ![image](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/cd960344-4c24-4e59-91f1-d5dca98efeb5)
 
+<!--
 ![건축 2](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/88892ca0-ee36-4e68-afd1-0a432bad8346)
-
+-->
 
 개발 기간 : 2024.01.29~2024.03.07
 
