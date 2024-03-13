@@ -4,7 +4,7 @@
 - 팀에서 담당한 업무는 네트워크, UI, 캐릭터 기능 개발입니다.
 
 ### 네트워크
-    Loading, Lobby, WaitingRoom, NetWork 폴더에 스크립트가 존재합니다.
+- Loading, Lobby, WaitingRoom, NetWork 폴더에 스크립트가 존재합니다.
 #### Loading
 - 유저가 게임을 실행하면 Loading 씬이 나오며, 서버에 접속합니다.
 #### Lobby
