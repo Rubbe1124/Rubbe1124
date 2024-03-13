@@ -4,16 +4,23 @@
 - 팀에서 담당한 업무는 네트워크, UI, 캐릭터 기능 개발입니다.
 
 </br>
+
 ## 네트워크
 - Loading, Lobby, WaitingRoom, NetWork 폴더에 스크립트가 존재합니다.
+
 </br>
+
 ### Loading
 - 유저가 게임을 실행하면 Loading 씬이 나오며, 서버에 접속합니다.
+
 </br>
+
 ### Lobby
 - 서버에 접속하게되면 Lobby 씬으로 전환되고, Lobby 씬에서는 현재 생성된 방 리스트와 그 방의 접속 인원이 화면에 표현되고,
 - 방을 만들거나 이미 있는 방에 참여할 수 있는 기능이 포함됩니다.
+  
 </br>
+
 ### WaitingRoom
 방에 접속하면 유저는 캐릭터를 선택할 수 있습니다. 
 관련 스크립트는 SetCharacterAndAlert, SelectCharacter, WaitingRoomInfo에 포함되어있습니다.
@@ -25,6 +32,7 @@
 - 그 외의 방에서 나갈 때를 처리하는 스크립트, 레디 상태 알림, 게임 시작 등의 스크립트가 포함되어있습니다.
 
 </br>
+
 ## Character
 인게임 내에서의 작업한 내용 중 비중이 큰 내용들입니다.
     
