@@ -4,8 +4,6 @@
 
 ![텍스트 1](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/e6b0c92e-52b0-4b08-8a35-c6e5576cfffd)
 
-![텍스트 2](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/1d3d8845-bca2-410f-a872-55ccc99d3dac)
-
 개발 기간 : 2023.05.03~2023.05.17
 
 개발 환경 : Unity 2020.3.30f1
@@ -43,11 +41,8 @@
 
 ![image](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/cd960344-4c24-4e59-91f1-d5dca98efeb5)
 
-![건축 1](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/ae0dd4f6-0f64-4d34-82cb-cb42c9e1380d)
-
 ![건축 2](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/88892ca0-ee36-4e68-afd1-0a432bad8346)
 
-![콤보 공격 영상](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/cd784da1-b617-4ea0-b34c-80998b3f487d)
 
 개발 기간 : 2024.01.29~2024.03.07
 
