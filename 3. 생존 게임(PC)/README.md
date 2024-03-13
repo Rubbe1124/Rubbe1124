@@ -42,12 +42,16 @@
 
 
 건물 오브젝트에 씬 컴포넌트로 좌표를 지정해 놓고 특정 조합(EX:바닥과 벽)을 맞추면 해당 좌표를 알려주는 기능을 넣어놨습니다.
-이 기능을 담당하는건 BuildingBaseObject의 FindNearestTransform 함수입니다. 이는 가상함수로 상속받은 모든 오브젝트에 달려있고, 각자 원하는대로 좌표를 출력하는 함수로 오버라이딩 하면 됩니다.
+
+이 기능을 담당하는건 BuildingBaseObject의 FindNearestTransform 함수입니다. 
+
+이는 가상함수로 상속받은 모든 오브젝트에 달려있고, 각자 원하는대로 좌표를 출력하는 함수로 오버라이딩 하면 됩니다.
 
 </br>
 
 
 예를 들어 같이 첨부한 BuildingWooodFoundation을 살펴보겠습니다.
+
 해당 클래스 역시 BuildingBaseObject를 상속받아 FindNearestTransform함수가 있고, 벽,바닥,계단의 경우 특정 좌표를 리턴하는 함수로 오버라이딩 되어 있습니다.
 
 </br>
