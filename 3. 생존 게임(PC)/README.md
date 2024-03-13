@@ -78,6 +78,14 @@ BuildingModeCharacter클래스의 SetTransformBasedOnTarget함수 내부에서 �
 ## 전투 시스템
 ### CombatActorComponent
 
+</br>
+
+
+![image](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/cd960344-4c24-4e59-91f1-d5dca98efeb5)
+
+</br>
+
+
 건축 시스템을 캐릭터 클래스를 상속 받아 만들었기에, 이식성이 부족하다는 느낌을 받았습니다.
 
 그래서 전투 시스템을 제작할 때는 그 부분을 보완하기 위해 액터 컴포넌트를 상속 받아 제작하기로 결정했습니다.
