@@ -12,7 +12,7 @@
 
 </br>
 
-![image](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/bcc27558-4ca2-4898-ac8b-bdca8b30cb73)
+![image](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/6f56417f-c985-498b-a889-272dad2a6712)
 
 </br>
 
