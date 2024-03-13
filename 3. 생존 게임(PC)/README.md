@@ -8,6 +8,14 @@
 
 </br>
 
+![image](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/44d4d901-902f-42b6-8e60-1c02737fa6de)
+
+</br>
+
+![image](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/bcc27558-4ca2-4898-ac8b-bdca8b30cb73)
+
+</br>
+
 건축에 관한 모든 기능을 넣은 클래스입니다.
 
 틱 함수를 중심으로 기능을 살펴보는게 좋습니다.
@@ -41,6 +49,9 @@
 
 </br>
 
+![image](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/13c70ee6-d3df-49e9-9b86-de0da447f5bd)
+
+</br>
 
 건물 오브젝트에 씬 컴포넌트로 좌표를 지정해 놓고 특정 조합(EX:바닥과 벽)을 맞추면 해당 좌표를 알려주는 기능을 넣어놨습니다.
 
