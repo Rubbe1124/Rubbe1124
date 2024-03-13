@@ -28,6 +28,7 @@
 
     예를 들어 같이 첨부한 BuildingWooodFoundation을 살펴보겠습니다.
     해당 클래스 역시 BuildingBaseObject를 상속받아 FindNearestTransform함수가 있고, 벽,바닥,계단의 경우 특정 좌표를 리턴하는 함수로 오버라이딩 되어 있습니다.
+    
     BuildingModeCharacter클래스의 SetTransformBasedOnTarget함수 내부에서 임시 건물의 FindNearestTransform함수를 호출해 건물의 위치를 지정된 위치로 변경합니다.
 
 ## 전투 시스템
