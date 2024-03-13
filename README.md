@@ -1,4 +1,4 @@
-### Hi there 👋
+### 포트폴리오 코드 첨부
 
 <!--
 **Rubbe1124/Rubbe1124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
