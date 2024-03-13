@@ -16,6 +16,8 @@
 - 동적으로 UI를 생성하고 UI 내부를 현재 진행되고 있는 이벤트의 내용을 채워 넣는 기능의 스크립트입니다.
 </br>
 
+![image](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/e7d7fd8f-fdd2-45b9-9060-275e6bc47ba9)
+
 ### Adapt_Dialogue_Contents 함수
 - 외부에서 이 함수를 실행하면 인자로 받은 이벤트를 저장하고 UI를 동적으로 생성하는 make_dialogue_prefab을 실행하는 함수.
 </br>
