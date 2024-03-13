@@ -42,11 +42,11 @@
     
 - 그 외의 방에서 나갈 때를 처리하는 스크립트, 레디 상태 알림, 게임 시작 등의 스크립트가 포함되어있습니다.
 
-  ![image](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/1a82a8e0-364c-4e13-ae44-7c5bd36c3a34)
+![image](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/1a82a8e0-364c-4e13-ae44-7c5bd36c3a34)
 
 </br>
 
-  ![image](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/bf029f94-88f1-4e51-b1c6-8f0ae1a82982)
+![image](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/bf029f94-88f1-4e51-b1c6-8f0ae1a82982)
 
 </br>
 
