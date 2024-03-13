@@ -18,7 +18,6 @@
 - 동적으로 UI를 생성하고 UI 내부를, 현재 진행되고 있는 이벤트의 내용을 채워 넣는 기능의 스크립트입니다.
 </br>
 
-![image](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/e7d7fd8f-fdd2-45b9-9060-275e6bc47ba9)
 
 ### Adapt_Dialogue_Contents 함수
 - 외부에서 이 함수를 실행하면 인자로 받은 이벤트를 저장하고 UI를 동적으로 생성하는 make_dialogue_prefab을 실행하는 함수.
@@ -61,6 +60,8 @@
 - 콘텐츠는 리스트 형식으로 되어있어, 이벤트 하나에서 출력하는 텍스트를 문단을 나누어 화면에 출력하게 합니다.
 - 선택지도 포함되며, 선택지를 누르면 해당 선택지가 가리키는 다음 이벤트를 발생시킵니다.
 - 선택지에 이벤트가 포함되지않는다면 이벤트 메이커에게 이벤트 끝남을 알리고 다음 이벤트가 선택되도록 알려줍니다.
+
+![image](https://github.com/Rubbe1124/Rubbe1124/assets/61380448/e7d7fd8f-fdd2-45b9-9060-275e6bc47ba9)
 
 <!--
 **Rubbe1124/Rubbe1124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
