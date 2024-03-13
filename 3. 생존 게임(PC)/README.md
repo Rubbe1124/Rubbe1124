@@ -1,10 +1,10 @@
-### 생존 게임 (가제 : aftermass)
+# 생존 게임 (가제 : aftermass)
 담당 업무
 1) 건축 시스템 제작
 2) 전투 시스템 제작
 
-### 건축 시스템
-#### BuildingModeCharacter
+## 건축 시스템
+### BuildingModeCharacter
     건축에 관한 모든 기능을 넣은 클래스입니다.
     틱 함수를 중심으로 기능을 살펴보는게 좋습니다.
 
@@ -30,8 +30,8 @@
     해당 클래스 역시 BuildingBaseObject를 상속받아 FindNearestTransform함수가 있고, 벽,바닥,계단의 경우 특정 좌표를 리턴하는 함수로 오버라이딩 되어 있습니다.
     BuildingModeCharacter클래스의 SetTransformBasedOnTarget함수 내부에서 임시 건물의 FindNearestTransform함수를 호출해 건물의 위치를 지정된 위치로 변경합니다.
 
-### 전투 시스템
-#### CombatActorComponent
+## 전투 시스템
+### CombatActorComponent
     건축 시스템을 캐릭터 클래스를 상속 받아 만들었기에, 이식성이 부족하다는 느낌을 받았습니다.
     그래서 전투 시스템을 제작할 때는 그 부분을 보완하기 위해 액터 컴포넌트를 상속 받아 제작하기로 결정했습니다.
     또한 성능적인 측면을 고려해 틱 함수를 사용하지 않는 것을 목표로 했고, 쓰기 간편해야 한다는 방향을 잡고 개발했습니다.
